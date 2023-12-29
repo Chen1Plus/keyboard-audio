@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 mod player;
 
 use mki::{Action, Keyboard};
